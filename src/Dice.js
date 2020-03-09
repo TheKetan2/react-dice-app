@@ -1,11 +1,13 @@
 import React, { Component } from "react";
 
+import "./Dice.css";
 class Dice extends Component {
   render() {
     return (
       <i
-        className={`fas fa-dice-${this.props.face}`}
-        style={{ fontSize: "10em", margin: "0.25em", color: "purple" }}
+        className={`Dice fas fa-dice-${this.props.face} ${
+          this.props.rolling ? "shaking" : ""
+        }`}
       ></i>
     );
   }
