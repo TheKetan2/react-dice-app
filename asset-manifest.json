@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-dice-app/static/css/main.a5be3114.chunk.css",
+    "main.js": "/react-dice-app/static/js/main.09133fcd.chunk.js",
+    "main.js.map": "/react-dice-app/static/js/main.09133fcd.chunk.js.map",
+    "runtime-main.js": "/react-dice-app/static/js/runtime-main.737646e7.js",
+    "runtime-main.js.map": "/react-dice-app/static/js/runtime-main.737646e7.js.map",
+    "static/js/2.a408d136.chunk.js": "/react-dice-app/static/js/2.a408d136.chunk.js",
+    "static/js/2.a408d136.chunk.js.map": "/react-dice-app/static/js/2.a408d136.chunk.js.map",
+    "index.html": "/react-dice-app/index.html",
+    "precache-manifest.5c5627c847833dfdbb038c2d75ccbfaa.js": "/react-dice-app/precache-manifest.5c5627c847833dfdbb038c2d75ccbfaa.js",
+    "service-worker.js": "/react-dice-app/service-worker.js",
+    "static/css/main.a5be3114.chunk.css.map": "/react-dice-app/static/css/main.a5be3114.chunk.css.map",
+    "static/js/2.a408d136.chunk.js.LICENSE.txt": "/react-dice-app/static/js/2.a408d136.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-dice-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737646e7.js",
+    "static/js/2.a408d136.chunk.js",
+    "static/css/main.a5be3114.chunk.css",
+    "static/js/main.09133fcd.chunk.js"
+  ]
+}
